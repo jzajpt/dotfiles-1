@@ -2,11 +2,13 @@ cask_args appdir: '/Applications'
 
 tap 'homebrew/bundle'
 tap 'neovim/neovim'
+tap 'kryptco/tap'
 
 brew 'ack'
 brew 'bazel'
 brew 'coreutils'
 brew 'imagemagick'
+brew 'kr'
 brew 'libgit2'
 brew 'openssl'
 brew 'neovim'
